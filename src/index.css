@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+body{
+    background-color: #000;
+    padding: 0 2px;
+}
+
+.lis{
+    color: white;
+}
